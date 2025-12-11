@@ -1,0 +1,13 @@
+﻿/build/
+/dist/
+/target/
+/nbproject/private/
+/nbproject/private/*
+*.class
+*.jar
+*.war
+*.log
+/.idea/
+/.DS_Store
+node_modules/
+.env
